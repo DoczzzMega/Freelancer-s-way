@@ -362,6 +362,10 @@ img {
   .list-item {
     font-size: 15px;
   }
+  .information, .contacts, .requisites {
+    display: flex;
+    flex-direction: column;
+  }
 }
 @media (max-width: 576px) {
   ._container,

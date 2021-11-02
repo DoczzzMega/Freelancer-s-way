@@ -359,6 +359,9 @@ img {
   .contacts {
     margin-top: 60px;
   }
+  .list-item {
+    font-size: 14px;
+  }
 }
 @media (max-width: 576px) {
   ._container,

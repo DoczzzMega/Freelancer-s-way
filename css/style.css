@@ -360,7 +360,7 @@ img {
     margin-top: 60px;
   }
   .list-item {
-    font-size: 14px;
+    font-size: 15px;
   }
 }
 @media (max-width: 576px) {
@@ -430,9 +430,6 @@ img {
   .information,
   .contacts {
     margin-top: 36px;
-  }
-  .list-item {
-    font-size: 14px;
   }
   .footer {
     padding-bottom: 75px;
